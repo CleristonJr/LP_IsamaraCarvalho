@@ -317,14 +317,14 @@ body {
     height: 50vh;
     min-height: 450px;
     object-fit: cover;
-    object-position: center 15%;
+    object-position: center 10%;
 }
 
 @media (min-width: 768px) {
     .hero-img {
         width: 45vw;
         height: 70vh;
-        object-position: center 15%;
+        object-position: center 10%;
     }
 }
 
